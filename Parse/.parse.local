@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "fitmeter"
+    },
+    "fitmeter": {
+      "applicationId": "aOa5Jdvdv7ZzKq045zPWKTk6blui19Pr3jlnQNlB"
+    }
+  }
+}
